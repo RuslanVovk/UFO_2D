@@ -3,4 +3,4 @@
 
 SimpleGameOnUnity
 
-You can try Game inside Builds/UFO_2D(pc).exe(Version on Windows)
+You can try Game inside Builds/UFO_2D(Windows).exe
